@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    padding: 40px;
+    font-family: "Segoe UI", sans-serif;
+    background: linear-gradient(135deg, #f6f8fb, #dfe9f3);
+    color: #1f2933;
+}
+
+h1 {
+    color: #0f4c81;
+    font-size: 36px;
+    margin-bottom: 16px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.7;
+    color: #334e68;
+}
+
+a {
+    color: #d64550;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.card {
+    max-width: 520px;
+    padding: 24px;
+    margin-top: 24px;
+    background-color: rgba(255, 255, 255, 0.88);
+    border-radius: 16px;
+    box-shadow: 0 12px 30px rgba(15, 76, 129, 0.15);
+}
